@@ -1,6 +1,6 @@
 # Purbayan_Anudip
 
-This repository contains my learning activities, classwork, lab work, and presentation materials related to **Anudip Foundation**.
+This repository contains my learning activities, classwork, lab work, projects and presentation materials related to **Anudip Foundation**.
 
 ## About This Repository
 
@@ -9,8 +9,9 @@ It includes:
 
 - classwork files
 - LMS lab activities
-- presentation PDFs
-- other related study materials
+- Presentations
+- PDFs
+- Projects
 
 ## Repository Structure
 
