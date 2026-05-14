@@ -7,7 +7,7 @@ This repository contains my learning activities, classwork, lab work, projects a
 The purpose of this repository is to keep a clear record of the work I have done during my learning journey at Anudip Foundation.  
 It includes:
 
-- classwork files
+- Classwork files
 - LMS lab activities
 - Presentations
 - PDFs
