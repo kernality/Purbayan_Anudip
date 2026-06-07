@@ -19,5 +19,6 @@ It includes:
 Purbayan_Anudip/
 ├── Classwork/
 │   ├── LMS Lab/
+│   ├── Projects/
 │   └── Presentations and PDFs/
 ├── README.md
